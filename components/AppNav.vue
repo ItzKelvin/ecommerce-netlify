@@ -10,7 +10,7 @@
           <nuxt-link to="/all">All</nuxt-link>
         </li>
         <li>
-          <nuxt-link to="/women">Women</nuxt-link>
+          <nuxt-link to="/women">Noman</nuxt-link>
         </li>
         <li>
           <nuxt-link to="/men">Men</nuxt-link>

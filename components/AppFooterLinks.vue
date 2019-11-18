@@ -1,17 +1,17 @@
 <template>
   <section>
     <ul>
-      <li>About</li>
-      <li>Company</li>
-      <li>Locations</li>
-      <li>Contact</li>
-      <li>Hours</li>
+      <li>About you;</li>
+      <li>Companie.</li>
+      <li>Locatyons</li>
+      <li>Kontakt</li>
+      <li>Hoers</li>
     </ul>
     <ul>
-      <li>Twitter</li>
-      <li>Facebook</li>
-      <li>Instagram</li>
-      <li>LinkedIn</li>
+      <li>Twytter</li>
+      <li>Fakebook</li>
+      <li>InstaKilo</li>
+      <li>LinkedUt</li>
     </ul>
     <ul>
       <h4>Newsletter:</h4>

@@ -6,13 +6,13 @@
       </slot>
     </div>
     <div class="new">
-      <slot name="new">New</slot>
+      <slot name="new">Twee hands</slot>
     </div>
     <div class="sale">
-      <slot name="sale">Men Shoes</slot>
+      <slot name="sale">Menly Shoes</slot>
     </div>
     <div class="collection">
-      <slot name="collection">Collection</slot>
+      <slot name="collection">Collektyonns</slot>
     </div>
     <div class="details">
       <slot name="details">Street Style New Fashion</slot>
